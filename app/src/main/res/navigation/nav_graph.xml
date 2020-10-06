@@ -43,7 +43,7 @@
         android:id="@+id/welcomeFragment"
         android:name="com.codinginflow.navigationcomponenttutorial.WelcomeFragment"
         android:label="{username}"
-        tools:layout="@layout/fragment_welcome" >
+        tools:layout="@layout/fragment_welcome">
         <argument
             android:name="username"
             app:argType="string" />
